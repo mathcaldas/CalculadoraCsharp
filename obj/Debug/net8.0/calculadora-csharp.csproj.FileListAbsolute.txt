@@ -1,0 +1,15 @@
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/bin/Debug/net8.0/calculadora-csharp
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/bin/Debug/net8.0/calculadora-csharp.deps.json
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/bin/Debug/net8.0/calculadora-csharp.runtimeconfig.json
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/bin/Debug/net8.0/calculadora-csharp.dll
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/bin/Debug/net8.0/calculadora-csharp.pdb
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.AssemblyInfoInputs.cache
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.AssemblyInfo.cs
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.csproj.CoreCompileInputs.cache
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.sourcelink.json
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.dll
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/refint/calculadora-csharp.dll
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.pdb
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/calculadora-csharp.genruntimeconfig.cache
+/workspaces/Projeto_de_Sistemas/calculadora-csharp/obj/Debug/net8.0/ref/calculadora-csharp.dll
